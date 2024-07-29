@@ -11,4 +11,4 @@ function calculatePow(base, pow) {
   
   const ans = calculatePow(base, powerRaised);
   
-  console.log(${base}^${pow} = ${ans});
+  console.log(`${base}^${pow} = ${ans}`);
